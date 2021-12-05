@@ -5,10 +5,13 @@ We input the data from the user and induvidually find all the smilar movies and 
 
 ## Demo
  ![Demo](https://github.com/Stanley-Sujith-Nelavala/recommendation-system-using-consine-similarity/blob/main/Screenshot%20(18).png)
+ 
 ## Data Before Cleaning
  ![Data Before Cleaning](https://github.com/Stanley-Sujith-Nelavala/recommendation-system-using-consine-similarity/blob/main/1.png)
+
 ## Data after Cleaning
  ![Data after Cleaning](https://github.com/Stanley-Sujith-Nelavala/recommendation-system-using-consine-similarity/blob/main/2.png)
+ 
 ## List of lists with top recommendations from given input
  ![List of lists with top recommendations from given input](https://github.com/Stanley-Sujith-Nelavala/recommendation-system-using-consine-similarity/blob/main/3.png)
  
