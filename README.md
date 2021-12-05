@@ -23,4 +23,10 @@ We input the data from the user and induvidually find all the smilar movies and 
 Install them using "pip install"
 
 
-*This repo is made as a part of crowdhacks hackathon.
+## Contributors
+1. Vidya Sri Gummadi [coe19b040@iiitdm.ac.in](coe19b040@iiitdm.ac.in)
+2. Vennela Kudala [coe19b032@iiitdm.ac.in](coe19b032@iiitdm.ac.in)
+3. G V Sanjay Reddy [ced19i042@iiitdm.ac.in](coed9i042@iiitdm.ac.in)
+4. Stanley Sujith Nelavala [coe19b043@iiitdm.ac.in](coe19b043@iiitdm.ac.in) 'Thats ME'
+
+**This repo is made as a part of crowdhacks hackathon.
