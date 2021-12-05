@@ -15,7 +15,9 @@ We input the data from the user and induvidually find all the smilar movies and 
 ## required dependencies
 
 -> widgetsnbextension
+
 -> ipywidgets
+
 -> voila
 
 Install them using "pip install"
