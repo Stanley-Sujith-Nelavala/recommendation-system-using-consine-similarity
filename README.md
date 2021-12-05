@@ -13,14 +13,11 @@ We input the data from the user and induvidually find all the smilar movies and 
  ![List of lists with top recommendations from given input](https://github.com/Stanley-Sujith-Nelavala/recommendation-system-using-consine-similarity/blob/main/3.png)
  
 ## required dependencies
-
--> widgetsnbextension
-
--> ipywidgets
-
--> voila
-
-Install them using "pip install"
+```
+pip install widgetsnbextension
+pip install ipywidgets
+pip install voila
+```
 
 
 ## Contributors
@@ -29,4 +26,4 @@ Install them using "pip install"
 3. G V Sanjay Reddy [ced19i042@iiitdm.ac.in](coed9i042@iiitdm.ac.in)
 4. Stanley Sujith Nelavala [coe19b043@iiitdm.ac.in](coe19b043@iiitdm.ac.in) 'Thats ME'
 
-**This repo is made as a part of crowdhacks hackathon.
+> This repo is made as a part of crowdhacks hackathon.
